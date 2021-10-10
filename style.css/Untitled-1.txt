@@ -1,0 +1,9 @@
+{
+
+
+
+}
+
+.img-nature{
+width:300px;
+}
